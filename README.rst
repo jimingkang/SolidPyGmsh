@@ -6,11 +6,17 @@ SolidsPy+pygmsh: 2D-Finite Element Analysis with Python pygmsh
 
 for SolidsPy please see:
 - Documentation: http://solidspy.readthedocs.io
+
 - GitHub: https://github.com/AppliedMechanics-EAFIT/SolidsPy
+
 - PyPI: https://pypi.org/project/solidspy/
+
 - Free and open source software: `MIT license <http://en.wikipedia.org/wiki/MIT_License>`__
 
+
 for Pygmsh please see:
+
+
 https://github.com/nschloe/pygmsh/tree/master/pygmsh
 
 Features
