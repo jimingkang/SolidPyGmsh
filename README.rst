@@ -1,4 +1,4 @@
-SolidsPy: 2D-Finite Element Analysis with Python
+SolidsPy+pygmsh: 2D-Finite Element Analysis with Python pygmsh
 ================================================
 
 .. figure:: https://raw.githubusercontent.com/AppliedMechanics-EAFIT/SolidsPy/master/docs/img/wrench.png
