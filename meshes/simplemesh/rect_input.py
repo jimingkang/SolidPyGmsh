@@ -10,7 +10,7 @@ import meshio
 import numpy as np 
 import os
 THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
-my_file = os.path.join(THIS_FOLDER, 'rect.msh')
+my_file = os.path.join(THIS_FOLDER, 'C:\\Users\\Yuan\\AppData\\Local\\Temp\\tmpf84y2pii.mesh')#tmpnygiwi5t.mesh
 mesh =meshio.read(my_file)
 
 
