@@ -1,4 +1,4 @@
-SolidsPy+pygmsh: 2D-Finite Element Analysis with Python pygmsh
+SolidsPy+pygmsh: 2D-Finite Element Analysis with  pygmsh
 ================================================
 
 
