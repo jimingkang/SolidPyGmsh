@@ -1,10 +1,9 @@
 SolidsPy+pygmsh: 2D-Finite Element Analysis with Python pygmsh
 ================================================
 
-.. figure:: https://raw.githubusercontent.com/AppliedMechanics-EAFIT/SolidsPy/master/docs/img/wrench.png
-   :alt: Wrench under bending.
 
 for SolidsPy please see:
+
 - Documentation: http://solidspy.readthedocs.io
 
 - GitHub: https://github.com/AppliedMechanics-EAFIT/SolidsPy
@@ -15,7 +14,6 @@ for SolidsPy please see:
 
 
 for Pygmsh please see:
-
 
 https://github.com/nschloe/pygmsh/tree/master/pygmsh
 
