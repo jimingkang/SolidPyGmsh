@@ -8,7 +8,7 @@ KMATES.txt
 KNODES.txt
 MESHUTIL/contour
 MESHUTIL/mesher
-
+*.exe
 ### Fortran ###
 # Prerequisites
 *.d
