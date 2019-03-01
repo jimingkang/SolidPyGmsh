@@ -4,22 +4,19 @@ SolidsPy+pygmsh: 2D-Finite Element Analysis with Python pygmsh
 .. figure:: https://raw.githubusercontent.com/AppliedMechanics-EAFIT/SolidsPy/master/docs/img/wrench.png
    :alt: Wrench under bending.
 
-
-A simple finite element analysis code for 2D elasticity problems.
-The code uses as input simple-to-create text files
-defining a model in terms of nodal, element, material and load data.
-
+for SolidsPy please see:
 - Documentation: http://solidspy.readthedocs.io
 - GitHub: https://github.com/AppliedMechanics-EAFIT/SolidsPy
 - PyPI: https://pypi.org/project/solidspy/
 - Free and open source software: `MIT license <http://en.wikipedia.org/wiki/MIT_License>`__
 
-
+for Pygmsh please see:
+https://github.com/nschloe/pygmsh/tree/master/pygmsh
 
 Features
 --------
 
-* It is based on an open-source environment.
+* It is based on an open-source SolidsPy+ Pygmsh .
 
 * It is easy to use.
 
